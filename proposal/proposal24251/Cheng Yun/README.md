@@ -43,7 +43,7 @@ Predictable, FOREX, machine learning.
 |  5.  | Chapter 4 | <a href="https://github.com/drshahizan/research-design/tree/main/proposal/proposal24251/Cheng%20Yun/Chapter4"><img src="https://github.com/drshahizan/research-design/blob/main/images/pdf.svg" width="24px" height="24px"></a> |
 |  6.  | Chapter 5 | <a href="https://github.com/drshahizan/research-design/tree/main/proposal/proposal24251/Cheng%20Yun/Chapter5"><img src="https://github.com/drshahizan/research-design/blob/main/images/pdf.svg" width="24px" height="24px"></a> |
 |  7.  | Complete Chapter | <a href="https://github.com/drshahizan/research-design/tree/main/proposal/proposal24251/Cheng%20Yun/Full%20Chapter"><img src="https://github.com/drshahizan/research-design/blob/main/images/pdf.svg" width="24px" height="24px"></a> |
-
+|  8.  | Slides | <a href="https://github.com/drshahizan/research-design/tree/main/proposal/proposal24251/Cheng%20Yun/Slides"><img src="https://github.com/drshahizan/research-design/blob/main/images/pdf.svg" width="24px" height="24px"></a> |
 
 ## Contribution 🛠️
 
